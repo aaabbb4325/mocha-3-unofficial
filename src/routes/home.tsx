@@ -41,7 +41,7 @@ export default function Home() {
       </div>
 
       <div class="absolute bottom-0 flex w-screen items-center justify-between p-4 px-6 text-sm">
-        &copy; 2026 proudparrot2 + Myntlue     (THIS IS A UNOFFICIAL BUILD OF MOCHA PROUDPARROT2 MADE THE ORIGINAL IT JUST WENT DOWN LAST YEAR AND HASNT BEEN RERELEASED [If you want this taken down dm @myntblue on discord])
+        &copy; 2026 proudparrot2 + Myntlue     (THIS IS A UNOFFICIAL BUILD OF MOCHA PROUDPARROT2 MADE THE ORIGINAL)
         <div class="flex gap-4">
           <div class="flex items-center gap-2">
             <GitCommitHorizontal />
