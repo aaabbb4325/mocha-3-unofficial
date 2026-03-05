@@ -45,12 +45,12 @@ export default function Home() {
         <div class="flex gap-4">
           <div class="flex items-center gap-2">
             <GitCommitHorizontal />
-            <A class="link-hover link" target="_blank" href={`https://github.com/aaabbb4325/mocha-3/commit/${__GIT_COMMIT__}/`}>
+            <A class="link-hover link" target="_blank" href={`https://github.com/aaabbb4325/mocha-3-unofficial/commit/${__GIT_COMMIT__}/`}>
               {__GIT_COMMIT__.slice(0, 7)}
             </A>
           </div>
           <Dot class="-mx-3" />
-          <a class="link-hover link" href="https://github.com/aaabbb4325/mocha" rel="noreferrer" target="_blank">
+          <a class="link-hover link" href="https://github.com/aaabbb4325/mocha-3-unofficial" rel="noreferrer" target="_blank">
             GitHub
           </a>
           <button
