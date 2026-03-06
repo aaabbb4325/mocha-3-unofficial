@@ -6,6 +6,12 @@
     "image": "https://coffee-cdn.page.gd/meta/1.png"
   },
   {
+    "name": "Deltarune",
+    "id": "rune",
+    "file": "index.html",
+    "image": "https://coffee-cdn.page.gd/meta/rune.png"
+  },
+  {
     "name": "Slope",
     "id": "slope",
     "file": "index.html",
