@@ -36,6 +36,24 @@
     "image": "https://coffee-cdn.page.gd/meta/oneshot.png"
   },
   {
+    "name": "Balatro",
+    "id": "balatro",
+    "file": "index.html",
+    "image": "https://coffee-cdn.page.gd/meta/balatro.png"
+  },
+  {
+    "name": "Crossy Road",
+    "id": "crossy",
+    "file": "index.html",
+    "image": "https://coffee-cdn.page.gd/meta/crossy.png"
+  },
+  {
+    "name": "Cookie Clicker",
+    "id": "cookie",
+    "file": "index.html",
+    "image": "https://coffee-cdn.page.gd/meta/cookie.png"
+  },
+  {
     "name": "Friday Night Funkin",
     "id": "fnf",
     "file": "index.html",
