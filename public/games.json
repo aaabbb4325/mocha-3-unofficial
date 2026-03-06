@@ -34,5 +34,11 @@
     "id": "fnf",
     "file": "index.html",
     "image": "coffee-cdn.page.gd/htdocs/meta/fnf.png"
+  },
+  {
+    "name": "Five Nights At Epstiens",
+    "id": "FNAE",
+    "file": "index.html",
+    "image": "coffee-cdn.page.gd/htdocs/meta/fnf.png"
   }
 ]
