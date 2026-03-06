@@ -30,6 +30,12 @@
     "image": "https://coffee-cdn.page.gd/meta/twhg.png"
   },
   {
+    "name": "Iron Lung",
+    "id": "iron",
+    "file": "index.html",
+    "image": "https://coffee-cdn.page.gd/meta/iron.png"
+  },
+  {
     "name": "Oneshot [LEGACY]",
     "id": "oneshot",
     "file": "index.html",
