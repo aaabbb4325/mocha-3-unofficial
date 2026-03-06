@@ -36,6 +36,18 @@
     "image": "coffee-cdn.page.gd/htdocs/meta/fnf.png"
   },
   {
+    "name": "Five Nights at Epsteins",
+    "id": "fnae",
+    "file": "index.html",
+    "image": "coffee-cdn.page.gd/htdocs/meta/fnae.png"
+  },
+  {
+    "name": "Drive Mad",
+    "id": "drive",
+    "file": "index.html",
+    "image": "coffee-cdn.page.gd/htdocs/meta/drive.png"
+  },
+  {
     "name": "Clover Pit",
     "id": "clov",
     "file": "index.html",
