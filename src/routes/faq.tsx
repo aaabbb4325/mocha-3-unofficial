@@ -42,7 +42,7 @@ export default function FAQ() {
         <input type="checkbox" name="faq" />
         <div class="collapse-title text-xl font-medium">Mocha 3 Unofficial Details</div>
         <div class="collapse-content">
-          <p>This is a Unofficial build of Mocha which aims to restore Mochas functionality and Continue maintaining it, its called Mocha 3 Despite the fact that I can barely code and probably will add little to no features from the actual Mocha 3 [ProudParrot2 if you want this taken down DM @Myntblue on discord]</p>
+          <p>This is a Unofficial build of Mocha which aims to restore Mochas functionality and Continue maintaining it, its called Mocha 3 Despite the fact that I can barely code and probably will add little to no features from the actual Mocha 3 [ProudParrot2 if you want this taken down DM @Myntblue or @eljahames on discord]</p>
         </div>
 
            
