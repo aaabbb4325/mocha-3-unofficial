@@ -3,102 +3,102 @@
     "name": "1",
     "id": "1",
     "file": "index.html",
-    "image": "https://coffee-cdn.page.gd/meta/1.png"
+    "image": "1.png"
   },
   {
     "name": "Bad Time Simulator",
     "id": "badtime",
     "file": "index.html",
-    "image": "https://coffee-cdn.page.gd/meta/buck.png"
+    "image": "badtime.png"
   },
   {
     "name": "Balatro",
     "id": "balatro",
     "file": "index.html",
-    "image": "https://coffee-cdn.page.gd/meta/balatro.png"
+    "image": "balatro.png"
   },
   {
     "name": "BuckShot Roulette",
     "id": "buck",
     "file": "index.html",
-    "image": "https://coffee-cdn.page.gd/meta/buck.png"
+    "image": "buck.png"
   },
   {
     "name": "Clover Pit",
     "id": "clov",
     "file": "index.html",
-    "image": "https://coffee-cdn.page.gd/meta/clov.png"
+    "image": "clov.png"
   },
   {
     "name": "Cookie Clicker",
     "id": "cookie",
     "file": "index.html",
-    "image": "https://coffee-cdn.page.gd/meta/cookie.png"
+    "image": "cookie.png"
   },
   {
     "name": "Crossy Road",
     "id": "crossy",
     "file": "index.html",
-    "image": "https://coffee-cdn.page.gd/meta/crossy.png"
+    "image": "crossy.png"
   },
   {
     "name": "Deltarune",
     "id": "rune",
     "file": "index.html",
-    "image": "https://coffee-cdn.page.gd/meta/rune.png"
+    "image": "rune.png"
   },
   {
     "name": "Drive Mad",
     "id": "drive",
     "file": "index.html",
-    "image": "https://coffee-cdn.page.gd/meta/drive.png"
+    "image": "drive.png"
   },
   {
     "name": "Five Nights at Epsteins",
     "id": "fnae",
     "file": "index.html",
-    "image": "https://coffee-cdn.page.gd/meta/fnae.png"
+    "image": "fnae.png"
   },
   {
     "name": "Friday Night Funkin",
     "id": "fnf",
     "file": "index.html",
-    "image": "https://coffee-cdn.page.gd/meta/fnf.png"
+    "image": "fnf.png"
   },
   {
     "name": "Iron Lung",
     "id": "iron",
     "file": "index.html",
-    "image": "https://coffee-cdn.page.gd/meta/iron.png"
+    "image": "iron.png"
   },
   {
     "name": "Minecraft 1.12.2",
     "id": "minecraft",
     "file": "12-2.html",
-    "image": "https://coffee-cdn.page.gd/meta/minecraft.png"
+    "image": "minecraft.png"
   },
   {
     "name": "Minecraft 1.8.8",
     "id": "minecraft",
     "file": "1-8-8.html",
-    "image": "https://coffee-cdn.page.gd/meta/minecraft.png"
+    "image": "minecraft.png"
   },
   {
     "name": "Oneshot [LEGACY]",
     "id": "oneshot",
     "file": "index.html",
-    "image": "https://coffee-cdn.page.gd/meta/oneshot.png"
+    "image": "oneshot.png"
   },
   {
     "name": "Slope",
     "id": "slope",
     "file": "index.html",
-    "image": "https://coffee-cdn.page.gd/meta/slope.png"
+    "image": "slope.png"
   },
   {
     "name": "The Worlds Hardest Game",
     "id": "twhg",
     "file": "index.html",
-    "image": "https://coffee-cdn.page.gd/meta/twhg.png"
+    "image": "twhg.png"
   }
 ]
