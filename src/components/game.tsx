@@ -4,7 +4,7 @@ import type { GameData } from '../lib/types'
 export default function Game({ game }: { game: GameData }) {
   const navigate = useNavigate()
   function play() {
-    const url = `coffee-cdn.page.gd/cdn/${game.id}/${game.file}`
+    const url = `https://coffee-cdn.page.gd/cdn/${game.id}/${game.file}`
 
     navigate(`/route/${btoa(url)}?hidecontrolbar=true`)
   }
@@ -12,7 +12,7 @@ export default function Game({ game }: { game: GameData }) {
   return (
     <div class="card image-full aspect-video w-80 bg-base-100 shadow-xl">
       <figure>
-        <img src={`coffee-cdn.page.gd/cdn/${game.id}/${game.image}`} alt={game.name} class="object-full h-full w-full" />
+        <img src={`https://coffee-cdn.page.gd/cdn/${game.id}/${game.image}`} alt={game.name} class="object-full h-full w-full" />
       </figure>
       <div class="card-body">
         <h2 class="card-title text-3xl font-bold text-base-content">{game.name}</h2>
