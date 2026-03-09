@@ -6,16 +6,70 @@
     "image": "https://coffee-cdn.page.gd/meta/1.png"
   },
   {
+    "name": "Bad Time Simulator",
+    "id": "badtime",
+    "file": "index.html",
+    "image": "https://coffee-cdn.page.gd/meta/buck.png"
+  },
+  {
+    "name": "Balatro",
+    "id": "balatro",
+    "file": "index.html",
+    "image": "https://coffee-cdn.page.gd/meta/balatro.png"
+  },
+  {
+    "name": "BuckShot Roulette",
+    "id": "buck",
+    "file": "index.html",
+    "image": "https://coffee-cdn.page.gd/meta/buck.png"
+  },
+  {
+    "name": "Clover Pit",
+    "id": "clov",
+    "file": "index.html",
+    "image": "https://coffee-cdn.page.gd/meta/clov.png"
+  },
+  {
+    "name": "Cookie Clicker",
+    "id": "cookie",
+    "file": "index.html",
+    "image": "https://coffee-cdn.page.gd/meta/cookie.png"
+  },
+  {
+    "name": "Crossy Road",
+    "id": "crossy",
+    "file": "index.html",
+    "image": "https://coffee-cdn.page.gd/meta/crossy.png"
+  },
+  {
     "name": "Deltarune",
     "id": "rune",
     "file": "index.html",
     "image": "https://coffee-cdn.page.gd/meta/rune.png"
   },
   {
-    "name": "Slope",
-    "id": "slope",
+    "name": "Drive Mad",
+    "id": "drive",
     "file": "index.html",
-    "image": "https://coffee-cdn.page.gd/meta/slope.png"
+    "image": "https://coffee-cdn.page.gd/meta/drive.png"
+  },
+  {
+    "name": "Five Nights at Epsteins",
+    "id": "fnae",
+    "file": "index.html",
+    "image": "https://coffee-cdn.page.gd/meta/fnae.png"
+  },
+  {
+    "name": "Friday Night Funkin",
+    "id": "fnf",
+    "file": "index.html",
+    "image": "https://coffee-cdn.page.gd/meta/fnf.png"
+  },
+  {
+    "name": "Iron Lung",
+    "id": "iron",
+    "file": "index.html",
+    "image": "https://coffee-cdn.page.gd/meta/iron.png"
   },
   {
     "name": "Minecraft 1.12.2",
@@ -30,75 +84,21 @@
     "image": "https://coffee-cdn.page.gd/meta/minecraft.png"
   },
   {
-    "name": "The Worlds Hardest Game",
-    "id": "twhg",
-    "file": "index.html",
-    "image": "https://coffee-cdn.page.gd/meta/twhg.png"
-  },
-  {
-    "name": "Iron Lung",
-    "id": "iron",
-    "file": "index.html",
-    "image": "https://coffee-cdn.page.gd/meta/iron.png"
-  },
-  {
     "name": "Oneshot [LEGACY]",
     "id": "oneshot",
     "file": "index.html",
     "image": "https://coffee-cdn.page.gd/meta/oneshot.png"
   },
   {
-    "name": "Balatro",
-    "id": "balatro",
+    "name": "Slope",
+    "id": "slope",
     "file": "index.html",
-    "image": "https://coffee-cdn.page.gd/meta/balatro.png"
+    "image": "https://coffee-cdn.page.gd/meta/slope.png"
   },
   {
-    "name": "Crossy Road",
-    "id": "crossy",
+    "name": "The Worlds Hardest Game",
+    "id": "twhg",
     "file": "index.html",
-    "image": "https://coffee-cdn.page.gd/meta/crossy.png"
-  },
-  {
-    "name": "Cookie Clicker",
-    "id": "cookie",
-    "file": "index.html",
-    "image": "https://coffee-cdn.page.gd/meta/cookie.png"
-  },
-  {
-    "name": "Friday Night Funkin",
-    "id": "fnf",
-    "file": "index.html",
-    "image": "https://coffee-cdn.page.gd/meta/fnf.png"
-  },
-  {
-    "name": "Five Nights at Epsteins",
-    "id": "fnae",
-    "file": "index.html",
-    "image": "https://coffee-cdn.page.gd/meta/fnae.png"
-  },
-  {
-    "name": "Drive Mad",
-    "id": "drive",
-    "file": "index.html",
-    "image": "https://coffee-cdn.page.gd/meta/drive.png"
-  },
-  {
-    "name": "Clover Pit",
-    "id": "clov",
-    "file": "index.html",
-    "image": "https://coffee-cdn.page.gd/meta/clov.png"
-  },
-    {
-    "name": "BuckShot Roulette",
-    "id": "buck",
-    "file": "index.html",
-    "image": "https://coffee-cdn.page.gd/meta/buck.png"
-  },
-  {
-    "name": "Bad Time Simulator",
-    "id": "badtime",
-    "file": "index.html",
-    "image": "https://coffee-cdn.page.gd/meta/buck.png"
+    "image": "https://coffee-cdn.page.gd/meta/twhg.png"
   }
 ]
