@@ -96,6 +96,12 @@
     "image": "slope.png"
   },
   {
+    "name": "Subway Surfers",
+    "id": "surf",
+    "file": "index.html",
+    "image": "surf.png"
+  },
+  {
     "name": "The Worlds Hardest Game",
     "id": "twhg",
     "file": "index.html",
