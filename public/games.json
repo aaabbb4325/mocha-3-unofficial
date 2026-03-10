@@ -6,6 +6,12 @@
     "image": "1.png"
   },
   {
+    "name": "2048",
+    "id": "2048",
+    "file": "index.html",
+    "image": "2048.png"
+  },
+  {
     "name": "Bad Time Simulator",
     "id": "badtime",
     "file": "index.html",
