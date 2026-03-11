@@ -30,7 +30,7 @@ export default function Home() {
             }}
             value={query()}
             onInput={(e) => setQuery(e.target.value)}
-            placeholder="Browse the web unrestricted"
+            placeholder="Search DuckDuckgo or type a url"
             type="text"
             class="input join-item w-full bg-base-300"
           />
