@@ -33,9 +33,9 @@ export default function FAQ() {
 
       <div class="collapse collapse-arrow bg-base-200">
         <input type="checkbox" name="faq" />
-        <div class="collapse-title text-xl font-medium">Why is the proxy slow?</div>
+        <div class="collapse-title text-xl font-medium">Why is the proxy slow/not working?</div>
         <div class="collapse-content">
-          <p>The proxy is hosted on a shared server that serves all users. If there is a significant amount of users at one time, it can cause network congestion and slow down requests. </p>
+          <p>The proxy is hosted on a shared server that serves all users. If there is a significant amount of users at one time, it can cause network congestion and slow down requests, or the wisp is just down which happens alot. </p>
         </div>
       </div> {/* Fixed: Added missing closure */}
 
@@ -43,7 +43,7 @@ export default function FAQ() {
         <input type="checkbox" name="faq" />
         <div class="collapse-title text-xl font-medium">Mocha 3 Unofficial Details</div>
         <div class="collapse-content">
-          <p>This is a Unofficial build of Mocha which aims to restore Mochas functionality and Continue maintaining it...</p>
+          <p>This is a Unofficial build of Mocha which aims to restore Mochas functionality and Continue maintaining it, also we had to replace the whole games list since it was broken.</p>
         </div>
       </div> {/* Fixed: Added missing closure */}
 
@@ -59,7 +59,7 @@ export default function FAQ() {
         <input type="checkbox" name="faq" />
         <div class="collapse-title text-xl font-medium">Credits</div>
         <div class="collapse-content">
-          <p>ProudParrot2 - OG Mocha, Bog/Truffled - Games, Bread/Genizy - Games, MyntBlue - Maintenance and Bug Fixes, ELJahames - Maintenance and paid for the domain </p>
+          <p>ProudParrot2 - OG Mocha, Bog/Truffled - Games, Bread/Genizy - Games, myntblue - a few ames, maintenance and Bug Fixes, ELJahames - Maintenance and paid for the domain </p>
         </div>
       </div>
     </div>
